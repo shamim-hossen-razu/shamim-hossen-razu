@@ -19,6 +19,9 @@ Passionate software engineer with a knack for turning innovative ideas into robu
 ## 🌱 Always Learning
 
 I'm passionate about staying at the forefront of technology. Currently, I'm exploring front end technologies.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamim-hossen-razu&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## 🌐 Connect with Me
 
@@ -41,11 +44,3 @@ I'm passionate about staying at the forefront of technology. Currently, I'm expl
 I actively contribute to open-source projects and believe in the power of collaboration. Check out my contributions on [GitHub](https://github.com/yourusername).
 
 Thanks for visiting my GitHub profile! Feel free to explore my repositories, and don't hesitate to reach out for collaboration or just to chat about tech. Happy coding! 🚀
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamim-hossen-razu&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
-
